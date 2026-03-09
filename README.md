@@ -18,12 +18,12 @@ Telecom X enfrenta una alta tasa de cancelaciones de servicio. Como Científico 
 
 ### 1. El Factor del Contrato
 El análisis revela que los contratos "Mes a Mes" son el principal punto de fuga.
-![Ingresos Totales](assets/newplot (2).png)
+![Ingresos Totales](assets/newplot-contrato.png)
 * **Insight:** Los clientes con contratos a corto plazo tienen una probabilidad de abandono 3 veces mayor que aquellos con contratos anuales.
 
 ### 2. Sensibilidad al Precio
 Existe un "punto crítico" en los cargos mensuales donde la probabilidad de fuga se dispara.
-![Cargos Mensuales](assets/newplot (16).png)
+![Cargos Mensuales](assets/newplot-cargo.png)
 * **Insight:** Los clientes que pagan entre $70 y $100 USD mensuales son los más propensos a cancelar si no perciben servicios de valor agregado (como soporte técnico).
 
 ---
