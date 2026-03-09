@@ -41,5 +41,5 @@ Tras el análisis, se proponen las siguientes acciones para Telecom X:
 3.  **Fidelización Activa:** Implementar soporte técnico gratuito para el segmento de cargos altos ($70-$100) para aumentar el valor percibido.
 
 ---
-**Analista:** [Tu Nombre]  
+**Analista:** [ANGEL ALMANZA]  
 **Proyecto:** Challenge Data Science - Alura Latam
