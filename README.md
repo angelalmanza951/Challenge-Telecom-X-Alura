@@ -18,7 +18,7 @@ Telecom X enfrenta una alta tasa de cancelaciones de servicio. Como Científico 
 
 ### 1. El Factor del Contrato
 El análisis revela que los contratos "Mes a Mes" son el principal punto de fuga.
-![Churn por Contrato](assets/churn_contract.png)
+![Churn por Contrato](assets/newplot.png;newplot (2).png)
 * **Insight:** Los clientes con contratos a corto plazo tienen una probabilidad de abandono 3 veces mayor que aquellos con contratos anuales.
 
 ### 2. Sensibilidad al Precio
